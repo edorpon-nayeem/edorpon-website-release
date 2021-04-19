@@ -1,5 +1,6 @@
 {
   "files": {
+<<<<<<< HEAD
     "main.css": "/static/css/main.1359096b.chunk.css",
     "main.js": "/static/js/main.7d0094d8.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.f3aa716a.js",
@@ -8,6 +9,16 @@
     "static/js/3.21eed018.chunk.js": "/static/js/3.21eed018.chunk.js",
     "index.html": "/index.html",
     "static/js/2.f3b8e1c1.chunk.js.LICENSE.txt": "/static/js/2.f3b8e1c1.chunk.js.LICENSE.txt",
+=======
+    "main.css": "/static/css/main.92049714.chunk.css",
+    "main.js": "/static/js/main.d4d8a566.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.f3aa716a.js",
+    "static/css/2.0371faf3.chunk.css": "/static/css/2.0371faf3.chunk.css",
+    "static/js/2.71490bf1.chunk.js": "/static/js/2.71490bf1.chunk.js",
+    "static/js/3.21eed018.chunk.js": "/static/js/3.21eed018.chunk.js",
+    "index.html": "/index.html",
+    "static/js/2.71490bf1.chunk.js.LICENSE.txt": "/static/js/2.71490bf1.chunk.js.LICENSE.txt",
+>>>>>>> 6c08152a5e95e42940a194630ea50d45629b3a09
     "static/media/01-image.b113bc9e.png": "/static/media/01-image.b113bc9e.png",
     "static/media/02-image.ba69ea39.png": "/static/media/02-image.ba69ea39.png",
     "static/media/03-image.394beeee.png": "/static/media/03-image.394beeee.png",
@@ -60,6 +71,11 @@
     "static/media/Patient-Portal.3678634a.png": "/static/media/Patient-Portal.3678634a.png",
     "static/media/Pharmacist-Modules.ad43085a.png": "/static/media/Pharmacist-Modules.ad43085a.png",
     "static/media/Pharmacy-Management.a6fea64f.png": "/static/media/Pharmacy-Management.a6fea64f.png",
+    "static/media/Picture1.33098d4a.png": "/static/media/Picture1.33098d4a.png",
+    "static/media/Picture2.37bfc35f.png": "/static/media/Picture2.37bfc35f.png",
+    "static/media/Picture4.7b5695e5.png": "/static/media/Picture4.7b5695e5.png",
+    "static/media/Picture5.f5cb606a.png": "/static/media/Picture5.f5cb606a.png",
+    "static/media/Picture6.5e18a665.png": "/static/media/Picture6.5e18a665.png",
     "static/media/Product-Management.0087c1d3.png": "/static/media/Product-Management.0087c1d3.png",
     "static/media/Product-Management.ce38010d.png": "/static/media/Product-Management.ce38010d.png",
     "static/media/Purchase-Management.a2468976.png": "/static/media/Purchase-Management.a2468976.png",
@@ -102,8 +118,14 @@
   "entrypoints": [
     "static/js/runtime-main.f3aa716a.js",
     "static/css/2.0371faf3.chunk.css",
+<<<<<<< HEAD
     "static/js/2.f3b8e1c1.chunk.js",
     "static/css/main.1359096b.chunk.css",
     "static/js/main.7d0094d8.chunk.js"
+=======
+    "static/js/2.71490bf1.chunk.js",
+    "static/css/main.92049714.chunk.css",
+    "static/js/main.d4d8a566.chunk.js"
+>>>>>>> 6c08152a5e95e42940a194630ea50d45629b3a09
   ]
 }
