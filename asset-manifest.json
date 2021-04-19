@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.1359096b.chunk.css",
-    "main.js": "/static/js/main.959df1fc.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.e28d1396.js",
+    "main.js": "/static/js/main.7d0094d8.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.f3aa716a.js",
     "static/css/2.0371faf3.chunk.css": "/static/css/2.0371faf3.chunk.css",
-    "static/js/2.9fa55498.chunk.js": "/static/js/2.9fa55498.chunk.js",
-    "static/js/3.10bc2157.chunk.js": "/static/js/3.10bc2157.chunk.js",
+    "static/js/2.f3b8e1c1.chunk.js": "/static/js/2.f3b8e1c1.chunk.js",
+    "static/js/3.21eed018.chunk.js": "/static/js/3.21eed018.chunk.js",
     "index.html": "/index.html",
-    "static/js/2.9fa55498.chunk.js.LICENSE.txt": "/static/js/2.9fa55498.chunk.js.LICENSE.txt",
+    "static/js/2.f3b8e1c1.chunk.js.LICENSE.txt": "/static/js/2.f3b8e1c1.chunk.js.LICENSE.txt",
     "static/media/01-image.b113bc9e.png": "/static/media/01-image.b113bc9e.png",
     "static/media/02-image.ba69ea39.png": "/static/media/02-image.ba69ea39.png",
     "static/media/03-image.394beeee.png": "/static/media/03-image.394beeee.png",
@@ -25,7 +25,6 @@
     "static/media/BG.3ec96e19.png": "/static/media/BG.3ec96e19.png",
     "static/media/BG.4e998659.png": "/static/media/BG.4e998659.png",
     "static/media/Certificate-Module.37bd57c0.png": "/static/media/Certificate-Module.37bd57c0.png",
-    "static/media/Certificate.1c3378c5.png": "/static/media/Certificate.1c3378c5.png",
     "static/media/Communication.1d896063.png": "/static/media/Communication.1d896063.png",
     "static/media/Contacts-Module.bf60a5a0.png": "/static/media/Contacts-Module.bf60a5a0.png",
     "static/media/Customer-Management.e4c9fb8c.png": "/static/media/Customer-Management.e4c9fb8c.png",
@@ -72,6 +71,7 @@
     "static/media/Report-Management.17cc1554.png": "/static/media/Report-Management.17cc1554.png",
     "static/media/Report-Management.5a08272a.png": "/static/media/Report-Management.5a08272a.png",
     "static/media/Reporting-System.04f02787.png": "/static/media/Reporting-System.04f02787.png",
+    "static/media/Royal-online-market.741095e0.png": "/static/media/Royal-online-market.741095e0.png",
     "static/media/Sales-Management.850ca548.png": "/static/media/Sales-Management.850ca548.png",
     "static/media/School-Accounts.76429c49.png": "/static/media/School-Accounts.76429c49.png",
     "static/media/School-Management-System.8d1626ee.png": "/static/media/School-Management-System.8d1626ee.png",
@@ -85,13 +85,12 @@
     "static/media/Transport.1d86f4d1.png": "/static/media/Transport.1d86f4d1.png",
     "static/media/Web-Design.9c9aa91d.png": "/static/media/Web-Design.9c9aa91d.png",
     "static/media/Web-Development.d76e28a3.png": "/static/media/Web-Development.d76e28a3.png",
-    "static/media/blog1.bde5f1cb.png": "/static/media/blog1.bde5f1cb.png",
-    "static/media/blog2.fcc90aa1.png": "/static/media/blog2.fcc90aa1.png",
-    "static/media/blog3.4e58100c.png": "/static/media/blog3.4e58100c.png",
     "static/media/e-Commerce.90603b05.png": "/static/media/e-Commerce.90603b05.png",
     "static/media/email.507e95b6.svg": "/static/media/email.507e95b6.svg",
     "static/media/header-image.a48f5d43.png": "/static/media/header-image.a48f5d43.png",
+    "static/media/limtex.1c73ea8e.png": "/static/media/limtex.1c73ea8e.png",
     "static/media/pos-software-image.3e55fbb5.png": "/static/media/pos-software-image.3e55fbb5.png",
+    "static/media/prime.9f9a3316.png": "/static/media/prime.9f9a3316.png",
     "static/media/slider-Img1.d8d7c52f.png": "/static/media/slider-Img1.d8d7c52f.png",
     "static/media/slider-Img2.5b968e0a.png": "/static/media/slider-Img2.5b968e0a.png",
     "static/media/slider-Img3.92eb34f7.png": "/static/media/slider-Img3.92eb34f7.png",
@@ -101,10 +100,10 @@
     "static/media/whatsapp.f179709d.svg": "/static/media/whatsapp.f179709d.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e28d1396.js",
+    "static/js/runtime-main.f3aa716a.js",
     "static/css/2.0371faf3.chunk.css",
-    "static/js/2.9fa55498.chunk.js",
+    "static/js/2.f3b8e1c1.chunk.js",
     "static/css/main.1359096b.chunk.css",
-    "static/js/main.959df1fc.chunk.js"
+    "static/js/main.7d0094d8.chunk.js"
   ]
 }
