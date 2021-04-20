@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.92049714.chunk.css",
-    "main.js": "/static/js/main.d4d8a566.chunk.js",
+    "main.css": "/static/css/main.87d26af3.chunk.css",
+    "main.js": "/static/js/main.a613a9e2.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.f3aa716a.js",
     "static/css/2.0371faf3.chunk.css": "/static/css/2.0371faf3.chunk.css",
-    "static/js/2.71490bf1.chunk.js": "/static/js/2.71490bf1.chunk.js",
+    "static/js/2.d90f51c7.chunk.js": "/static/js/2.d90f51c7.chunk.js",
     "static/js/3.21eed018.chunk.js": "/static/js/3.21eed018.chunk.js",
     "index.html": "/index.html",
-    "static/js/2.71490bf1.chunk.js.LICENSE.txt": "/static/js/2.71490bf1.chunk.js.LICENSE.txt",
+    "static/js/2.d90f51c7.chunk.js.LICENSE.txt": "/static/js/2.d90f51c7.chunk.js.LICENSE.txt",
     "static/media/01-image.b113bc9e.png": "/static/media/01-image.b113bc9e.png",
     "static/media/02-image.ba69ea39.png": "/static/media/02-image.ba69ea39.png",
     "static/media/03-image.394beeee.png": "/static/media/03-image.394beeee.png",
@@ -25,7 +25,6 @@
     "static/media/BG.3ec96e19.png": "/static/media/BG.3ec96e19.png",
     "static/media/BG.4e998659.png": "/static/media/BG.4e998659.png",
     "static/media/Certificate-Module.37bd57c0.png": "/static/media/Certificate-Module.37bd57c0.png",
-    "static/media/Certificate.1c3378c5.png": "/static/media/Certificate.1c3378c5.png",
     "static/media/Communication.1d896063.png": "/static/media/Communication.1d896063.png",
     "static/media/Contacts-Module.bf60a5a0.png": "/static/media/Contacts-Module.bf60a5a0.png",
     "static/media/Customer-Management.e4c9fb8c.png": "/static/media/Customer-Management.e4c9fb8c.png",
@@ -61,11 +60,6 @@
     "static/media/Patient-Portal.3678634a.png": "/static/media/Patient-Portal.3678634a.png",
     "static/media/Pharmacist-Modules.ad43085a.png": "/static/media/Pharmacist-Modules.ad43085a.png",
     "static/media/Pharmacy-Management.a6fea64f.png": "/static/media/Pharmacy-Management.a6fea64f.png",
-    "static/media/Picture1.33098d4a.png": "/static/media/Picture1.33098d4a.png",
-    "static/media/Picture2.37bfc35f.png": "/static/media/Picture2.37bfc35f.png",
-    "static/media/Picture4.7b5695e5.png": "/static/media/Picture4.7b5695e5.png",
-    "static/media/Picture5.f5cb606a.png": "/static/media/Picture5.f5cb606a.png",
-    "static/media/Picture6.5e18a665.png": "/static/media/Picture6.5e18a665.png",
     "static/media/Product-Management.0087c1d3.png": "/static/media/Product-Management.0087c1d3.png",
     "static/media/Product-Management.ce38010d.png": "/static/media/Product-Management.ce38010d.png",
     "static/media/Purchase-Management.a2468976.png": "/static/media/Purchase-Management.a2468976.png",
@@ -77,6 +71,7 @@
     "static/media/Report-Management.17cc1554.png": "/static/media/Report-Management.17cc1554.png",
     "static/media/Report-Management.5a08272a.png": "/static/media/Report-Management.5a08272a.png",
     "static/media/Reporting-System.04f02787.png": "/static/media/Reporting-System.04f02787.png",
+    "static/media/Royal-online-market.741095e0.png": "/static/media/Royal-online-market.741095e0.png",
     "static/media/Sales-Management.850ca548.png": "/static/media/Sales-Management.850ca548.png",
     "static/media/School-Accounts.76429c49.png": "/static/media/School-Accounts.76429c49.png",
     "static/media/School-Management-System.8d1626ee.png": "/static/media/School-Management-System.8d1626ee.png",
@@ -93,7 +88,9 @@
     "static/media/e-Commerce.90603b05.png": "/static/media/e-Commerce.90603b05.png",
     "static/media/email.507e95b6.svg": "/static/media/email.507e95b6.svg",
     "static/media/header-image.a48f5d43.png": "/static/media/header-image.a48f5d43.png",
+    "static/media/limtex.1c73ea8e.png": "/static/media/limtex.1c73ea8e.png",
     "static/media/pos-software-image.3e55fbb5.png": "/static/media/pos-software-image.3e55fbb5.png",
+    "static/media/prime.9f9a3316.png": "/static/media/prime.9f9a3316.png",
     "static/media/slider-Img1.d8d7c52f.png": "/static/media/slider-Img1.d8d7c52f.png",
     "static/media/slider-Img2.5b968e0a.png": "/static/media/slider-Img2.5b968e0a.png",
     "static/media/slider-Img3.92eb34f7.png": "/static/media/slider-Img3.92eb34f7.png",
@@ -105,8 +102,8 @@
   "entrypoints": [
     "static/js/runtime-main.f3aa716a.js",
     "static/css/2.0371faf3.chunk.css",
-    "static/js/2.71490bf1.chunk.js",
-    "static/css/main.92049714.chunk.css",
-    "static/js/main.d4d8a566.chunk.js"
+    "static/js/2.d90f51c7.chunk.js",
+    "static/css/main.87d26af3.chunk.css",
+    "static/js/main.a613a9e2.chunk.js"
   ]
 }
