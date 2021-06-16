@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.7c6feac2.chunk.css",
-    "main.js": "/static/js/main.b381e047.chunk.js",
+    "main.js": "/static/js/main.2257fa73.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.62030508.js",
     "static/css/2.a70930a0.chunk.css": "/static/css/2.a70930a0.chunk.css",
     "static/js/2.9dedc553.chunk.js": "/static/js/2.9dedc553.chunk.js",
@@ -84,6 +84,7 @@
     "static/media/Purchase-Management.be7b5ecf.png": "/static/media/Purchase-Management.be7b5ecf.png",
     "static/media/Purchase-Manager.353eb47f.png": "/static/media/Purchase-Manager.353eb47f.png",
     "static/media/Quick-POS-(Sale).b7269ad8.png": "/static/media/Quick-POS-(Sale).b7269ad8.png",
+    "static/media/R-electronic.ef36b97f.png": "/static/media/R-electronic.ef36b97f.png",
     "static/media/Real-Estate-Management.b0b53cb2.png": "/static/media/Real-Estate-Management.b0b53cb2.png",
     "static/media/Report-Management.17cc1554.png": "/static/media/Report-Management.17cc1554.png",
     "static/media/Report-Management.5a08272a.png": "/static/media/Report-Management.5a08272a.png",
@@ -112,6 +113,7 @@
     "static/media/email.507e95b6.svg": "/static/media/email.507e95b6.svg",
     "static/media/find-a-doctor.ead5f701.png": "/static/media/find-a-doctor.ead5f701.png",
     "static/media/find-a-tutor.b65043b1.jpg": "/static/media/find-a-tutor.b65043b1.jpg",
+    "static/media/hamid.512080d9.png": "/static/media/hamid.512080d9.png",
     "static/media/header-image.a48f5d43.png": "/static/media/header-image.a48f5d43.png",
     "static/media/ispab.56a02af3.jpg": "/static/media/ispab.56a02af3.jpg",
     "static/media/let's-learn.6a12300e.png": "/static/media/let's-learn.6a12300e.png",
@@ -121,10 +123,13 @@
     "static/media/pos-software-image.3e55fbb5.png": "/static/media/pos-software-image.3e55fbb5.png",
     "static/media/prime.9f9a3316.png": "/static/media/prime.9f9a3316.png",
     "static/media/prioshop.5359c74b.png": "/static/media/prioshop.5359c74b.png",
+    "static/media/shoikot-pharmacy.62591ac3.png": "/static/media/shoikot-pharmacy.62591ac3.png",
+    "static/media/shondhi.6fd1d358.png": "/static/media/shondhi.6fd1d358.png",
     "static/media/slick-theme.css": "/static/media/slick.c94f7671.ttf",
     "static/media/slider-Img1.d8d7c52f.png": "/static/media/slider-Img1.d8d7c52f.png",
     "static/media/slider-Img2.5b968e0a.png": "/static/media/slider-Img2.5b968e0a.png",
     "static/media/slider-Img3.92eb34f7.png": "/static/media/slider-Img3.92eb34f7.png",
+    "static/media/sohel-rana.fe19f4af.png": "/static/media/sohel-rana.fe19f4af.png",
     "static/media/telephone.2ae70d6c.svg": "/static/media/telephone.2ae70d6c.svg",
     "static/media/whatsapp.f179709d.svg": "/static/media/whatsapp.f179709d.svg"
   },
@@ -133,6 +138,6 @@
     "static/css/2.a70930a0.chunk.css",
     "static/js/2.9dedc553.chunk.js",
     "static/css/main.7c6feac2.chunk.css",
-    "static/js/main.b381e047.chunk.js"
+    "static/js/main.2257fa73.chunk.js"
   ]
 }
