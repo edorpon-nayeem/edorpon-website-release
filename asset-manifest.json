@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.7c6feac2.chunk.css",
-    "main.js": "/static/js/main.68750182.chunk.js",
+    "main.js": "/static/js/main.fac6d16e.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.3364ff58.js",
     "static/css/2.a70930a0.chunk.css": "/static/css/2.a70930a0.chunk.css",
-    "static/js/2.dcdb00c9.chunk.js": "/static/js/2.dcdb00c9.chunk.js",
+    "static/js/2.7e5b2cea.chunk.js": "/static/js/2.7e5b2cea.chunk.js",
     "static/js/3.8dc14116.chunk.js": "/static/js/3.8dc14116.chunk.js",
     "index.html": "/index.html",
-    "static/js/2.dcdb00c9.chunk.js.LICENSE.txt": "/static/js/2.dcdb00c9.chunk.js.LICENSE.txt",
+    "static/js/2.7e5b2cea.chunk.js.LICENSE.txt": "/static/js/2.7e5b2cea.chunk.js.LICENSE.txt",
     "static/media/About-Image.788b43bb.png": "/static/media/About-Image.788b43bb.png",
     "static/media/About-Us-shape.ff4a99fd.png": "/static/media/About-Us-shape.ff4a99fd.png",
     "static/media/Academics-Management.d4bf06da.png": "/static/media/Academics-Management.d4bf06da.png",
@@ -17,6 +17,7 @@
     "static/media/Appoinment.98832fcf.png": "/static/media/Appoinment.98832fcf.png",
     "static/media/Attractive-Dashboard.f96c66c7.png": "/static/media/Attractive-Dashboard.f96c66c7.png",
     "static/media/BG-Shape.c0ec48fe.png": "/static/media/BG-Shape.c0ec48fe.png",
+    "static/media/BG.115dc516.jpg": "/static/media/BG.115dc516.jpg",
     "static/media/BG.3ec96e19.png": "/static/media/BG.3ec96e19.png",
     "static/media/BG.4e998659.png": "/static/media/BG.4e998659.png",
     "static/media/BasisMember.dbf8182f.jpg": "/static/media/BasisMember.dbf8182f.jpg",
@@ -99,7 +100,6 @@
     "static/media/Shape.d59b0df2.png": "/static/media/Shape.d59b0df2.png",
     "static/media/Shiam.5ad2f7d5.png": "/static/media/Shiam.5ad2f7d5.png",
     "static/media/Shstpia.0237d7b3.jpg": "/static/media/Shstpia.0237d7b3.jpg",
-    "static/media/Specialization.7ee5f531.jpg": "/static/media/Specialization.7ee5f531.jpg",
     "static/media/Stalk-Management.4219d777.png": "/static/media/Stalk-Management.4219d777.png",
     "static/media/Student-Admission.c26af650.png": "/static/media/Student-Admission.c26af650.png",
     "static/media/Student-Information.6319182a.png": "/static/media/Student-Information.6319182a.png",
@@ -136,8 +136,8 @@
   "entrypoints": [
     "static/js/runtime-main.3364ff58.js",
     "static/css/2.a70930a0.chunk.css",
-    "static/js/2.dcdb00c9.chunk.js",
+    "static/js/2.7e5b2cea.chunk.js",
     "static/css/main.7c6feac2.chunk.css",
-    "static/js/main.68750182.chunk.js"
+    "static/js/main.fac6d16e.chunk.js"
   ]
 }
