@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.7c6feac2.chunk.css",
-    "main.js": "/static/js/main.f26ffec4.chunk.js",
+    "main.js": "/static/js/main.e73f0384.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.3364ff58.js",
     "static/css/2.a70930a0.chunk.css": "/static/css/2.a70930a0.chunk.css",
     "static/js/2.7e5b2cea.chunk.js": "/static/js/2.7e5b2cea.chunk.js",
@@ -27,6 +27,7 @@
     "static/media/Certificate-Module.37bd57c0.png": "/static/media/Certificate-Module.37bd57c0.png",
     "static/media/Communication.1d896063.png": "/static/media/Communication.1d896063.png",
     "static/media/Contacts-Module.bf60a5a0.png": "/static/media/Contacts-Module.bf60a5a0.png",
+    "static/media/Creat post.534258db.png": "/static/media/Creat post.534258db.png",
     "static/media/Customer-Management.e4c9fb8c.png": "/static/media/Customer-Management.e4c9fb8c.png",
     "static/media/Customer-Relation.158e6fb5.png": "/static/media/Customer-Relation.158e6fb5.png",
     "static/media/Discharge.42b0b306.png": "/static/media/Discharge.42b0b306.png",
@@ -87,6 +88,7 @@
     "static/media/Quick-POS-(Sale).b7269ad8.png": "/static/media/Quick-POS-(Sale).b7269ad8.png",
     "static/media/R-electronic.ef36b97f.png": "/static/media/R-electronic.ef36b97f.png",
     "static/media/Real-Estate-Management.b0b53cb2.png": "/static/media/Real-Estate-Management.b0b53cb2.png",
+    "static/media/Registrations.c7e79352.png": "/static/media/Registrations.c7e79352.png",
     "static/media/Report-Management.17cc1554.png": "/static/media/Report-Management.17cc1554.png",
     "static/media/Report-Management.5a08272a.png": "/static/media/Report-Management.5a08272a.png",
     "static/media/Restaurant-Management.de557417.png": "/static/media/Restaurant-Management.de557417.png",
@@ -115,6 +117,7 @@
     "static/media/find-a-tutor.b65043b1.jpg": "/static/media/find-a-tutor.b65043b1.jpg",
     "static/media/hamid.512080d9.png": "/static/media/hamid.512080d9.png",
     "static/media/header-image.a48f5d43.png": "/static/media/header-image.a48f5d43.png",
+    "static/media/home.639eb9e9.png": "/static/media/home.639eb9e9.png",
     "static/media/ispab.56a02af3.jpg": "/static/media/ispab.56a02af3.jpg",
     "static/media/let's-learn.6a12300e.png": "/static/media/let's-learn.6a12300e.png",
     "static/media/lets-learn.98984754.png": "/static/media/lets-learn.98984754.png",
@@ -138,6 +141,6 @@
     "static/css/2.a70930a0.chunk.css",
     "static/js/2.7e5b2cea.chunk.js",
     "static/css/main.7c6feac2.chunk.css",
-    "static/js/main.f26ffec4.chunk.js"
+    "static/js/main.e73f0384.chunk.js"
   ]
 }
